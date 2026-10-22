@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=120&section=header&text=Syed%20Haziq%20Zia%20Naqvi&fontSize=30&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Syed Haziq Zia Naqvi" />
+<h1>Syed Haziq Zia Naqvi</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=520&lines=Software+Engineer;Mobile+App+Developer;AI%2FML+Practitioner;Building+civic-tech+for+Karachi" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Mobile+App+Developer;AI%2FML+Practitioner;Building+civic-tech+for+Karachi" alt="Roles" />
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/syed-haziq-zia-naqvi-34166634b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
