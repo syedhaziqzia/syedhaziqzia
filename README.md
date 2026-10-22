@@ -23,14 +23,18 @@
 
 ### 👨‍💻 About Me
 
-Third-year Computer Science student at the **University of Karachi**, dedicated to software engineering, mobile application development, and applied AI/ML systems.
+Third-year Computer Science undergraduate at the **University of Karachi** (Class of 2028), specializing in cross-platform mobile app development and software engineering, with an active focus on building scalable real-world products.
 
 ```yaml
-academic:    BS Computer Science @ University of Karachi (Year 3)
-specialties: Mobile Engineering (React Native) · Full-Stack · Applied AI/ML
-flagship:    Karachi Complaint Portal (Civic-Tech Redressal Platform)
-focus:       Production-Ready Architecture · High Performance · Clean Code
+Education:     BS Computer Science @ University of Karachi (Expected 2028)
+Primary Focus: Mobile App Development (React Native) · Software Engineering
+Exploring:     Applied Machine Learning & Intelligent Feature Integration
+Open To:       Software Engineering & Mobile Developer Internships
 ```
+
+- 📱 **Mobile & Software:** Focused on building performant, modular applications using **React Native**, **JavaScript**, **Java**, and **Python**.
+- 🏛️ **Civic Impact:** Architected the **Karachi Complaint Portal**, solving urban community challenges through accessible digital tools.
+- 🎯 **Career Objective:** Actively seeking **Software Engineering and Mobile App Development Internships** to contribute to high-impact engineering teams.
 
 ---
 
