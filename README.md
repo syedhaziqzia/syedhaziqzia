@@ -1,62 +1,106 @@
 <div align="center">
 
-<h1>Syed Haziq Zia Naqvi</h1>
+  # 💫 Syed Haziq Zia Naqvi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Mobile+App+Developer;AI%2FML+Practitioner;Building+civic-tech+for+Karachi" alt="Roles" />
+  <!-- Sleek Typing SVG with Cyber Cyan Glow -->
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=580&lines=CS+Undergrad+%40+University+of+Karachi;Software+Engineer+%26+Mobile+Developer;Architecting+Civic-Tech+for+Karachi;Building+Scalable+Full-Stack+%26+AI+Systems" alt="Animated Typing Subtitle" />
+  </a>
 
-<br><br>
+  <br><br>
 
-<a href="https://www.linkedin.com/in/syed-haziq-zia-naqvi-34166634b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  <!-- Clean LinkedIn Badge with Direct Verified URL -->
+  <a href="https://www.linkedin.com/in/syed-haziq-zia-naqvi-34166634b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
 </div>
 
 <br>
 
-### About
+---
 
-Third-year Computer Science student at the **University of Karachi**, working across software engineering, mobile development, and applied AI/ML.
+### 👨‍💻 About Me
 
-I like building things that solve real problems, with code that stays clean and easy to maintain.
+Third-year Computer Science student at the **University of Karachi**, engineering practical mobile applications, scalable cloud solutions, and real-world civic technology.
 
 ```yaml
-currently:   CS @ University of Karachi (Year 3)
-building:    Karachi Complaint Portal
-focus:       Mobile apps · Full-stack · Applied AI/ML
-open_to:     Internships · Collaborations · Hackathons
+academic:    BS Computer Science @ University of Karachi (Year 3)
+specialties: Mobile Engineering (React Native) · Full-Stack · Applied AI/ML
+flagship:    Karachi Complaint Portal (Civic-Tech Redressal Platform)
+focus:       Production-Ready Architecture · High Performance · Clean Code
 ```
 
-<br>
+---
 
-### Featured Projects
+### 🚀 Featured Projects
 
-**[Karachi Complaint Portal](https://github.com/syedhaziqzia/Karachi-Complaint-Portal)** · `React Native` `Firebase`
-<br>A civic app where citizens report road damage, sewage, waste, and encroachments, with GPS location and photo evidence on a live map. Includes multi-provider auth, push notifications, XP and badges, and support for English, Urdu, and Roman Urdu.
+<table>
+  <tr>
+    <td width="65%">
+      <strong><a href="https://github.com/syedhaziqzia/Karachi-Complaint-Portal">Karachi Complaint Portal</a></strong>
+      <br>
+      A full-fledged civic reporting app empowering citizens to log infrastructure issues (roads, sewage, encroachments) with real-time GPS tagging and photo verification. Features live status tracking, gamified citizen badges, and multilingual support (English, Urdu, Roman Urdu).
+    </td>
+    <td width="35%" align="center">
+      <code>React Native</code><br>
+      <code>Firebase</code><br>
+      <code>Cloud Firestore</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/syedhaziqzia/FuelQ">FuelQ</a></strong>
+      <br>
+      Stochastic queuing analytics engine and Discrete Event Simulator (DES) calibrated for Shell Petrol Pump operations in Karachi to minimize bottleneck delays.
+    </td>
+    <td align="center">
+      <code>C#</code> · <code>.NET 10</code><br>
+      <code>WPF</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/syedhaziqzia/MINDEASE-DBMS-Project">MindEase</a></strong>
+      <br>
+      Role-based mental health and mood journaling platform designed with strict relational schema design, complex JOIN queries, and automated cascading integrity.
+    </td>
+    <td align="center">
+      <code>Python</code> · <code>Flask</code><br>
+      <code>MySQL</code>
+    </td>
+  </tr>
+</table>
 
-**[FuelQ](https://github.com/syedhaziqzia/FuelQ)** · `C#` `.NET` `WPF`
-<br>A stochastic queuing analytics tool and discrete-event simulator, modelled on a real Shell petrol pump in Karachi.
+<sub>Also explore: <a href="https://github.com/syedhaziqzia/ATM-Simulator-Java">ATM Simulator</a> (Java Swing) · <a href="https://github.com/syedhaziqzia/gdp-analyzer">GDP Analyzer</a> (Python & World Bank API)</sub>
 
-**[MindEase](https://github.com/syedhaziqzia/MINDEASE-DBMS-Project)** · `Python` `Flask` `MySQL`
-<br>A role-based app for tracking mood and mental health, built around relational schema design, JOINs, and cascading foreign keys.
+---
 
-<sub>More: [ATM Simulator](https://github.com/syedhaziqzia/ATM-Simulator-Java) (Java Swing) · [GDP Analyzer](https://github.com/syedhaziqzia/gdp-analyzer) (Python, World Bank API)</sub>
-
-<br>
-
-### Stack
-
-<img src="https://skillicons.dev/icons?i=python,js,java,cs,react,dotnet,flask,mysql,firebase,html,css,git,figma&theme=dark&perline=13" alt="Tech stack" />
-
-<br><br>
-
-### Activity
+### 🛠️ Tech Stack
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,cs,react,dotnet,flask,mysql,firebase,git,figma,html,css&theme=dark&perline=13" alt="Tech Stack Icons" />
+</div>
 
-<img height="160" src="https://github-readme-stats.shion.dev/api?username=syedhaziqzia&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=syedhaziqzia&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top languages" />
+---
 
-<img src="https://streak-stats.demolab.com/?user=syedhaziqzia&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=21262d" alt="Streak" />
+### 📊 GitHub Activity & Metrics
 
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr align="center">
+      <td>
+        <img height="155" src="https://github-readme-stats.shion.dev/api?username=syedhaziqzia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Haziq's GitHub Stats" />
+      </td>
+      <td>
+        <img height="155" src="https://streak-stats.demolab.com/?user=syedhaziqzia&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+      </td>
+    </tr>
+    <tr align="center">
+      <td colspan="2">
+        <br>
+        <img height="140" src="https://github-readme-stats.shion.dev/api/top-langs/?username=syedhaziqzia&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
