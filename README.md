@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- Rounded Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,24,38,55&height=150&section=header&text=Syed%20Haziq%20Zia%20Naqvi&fontSize=34&fontAlignY=42&desc=Software%20Engineer%20•%20AI%2FML%20Practitioner%20•%20Mobile%20Developer&descAlignY=68&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Solid Constant Blue Rounded Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0A66C2&height=150&section=header&text=Syed%20Haziq%20Zia%20Naqvi&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20•%20AI%2FML%20Practitioner%20•%20Mobile%20Developer&descColor=ffffff&descAlignY=68&descAlign=50" width="100%" alt="Header Banner" />
 
   <br><br>
 
   <!-- Animated Typing Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1200&color=38BDF8&center=true&vCenter=true&width=580&lines=3rd-Year+CS+Undergrad+%40+University+of+Karachi;Building+Scalable+Mobile+%26+Full-Stack+Apps;Creator+of+Karachi+Complaint+Portal;Applying+Modern+AI%2FML+To+Real-World+Problems" alt="Animated Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1200&color=38BDF8&center=true&vCenter=true&width=580&lines=3rd-Year+CS+Undergrad+%40+University+of+Karachi;Building+Scalable+Mobile+%26+Full-Stack+Apps;Creator+of+Karachi+Complaint+Portal;Actively+Seeking+SWE+%26+Mobile+Internships" alt="Animated Typing Subtitle" />
 
   <br><br>
 
@@ -23,18 +23,12 @@
 
 ### 👨‍💻 About Me
 
-Third-year Computer Science undergraduate at the **University of Karachi** (Class of 2028), specializing in cross-platform mobile app development and software engineering, with an active focus on building scalable real-world products.
+Third-year Computer Science undergraduate at the **University of Karachi** (Class of 2028), specializing in cross-platform mobile engineering and robust full-stack software development.
 
-```yaml
-Education:     BS Computer Science @ University of Karachi (Expected 2028)
-Primary Focus: Mobile App Development (React Native) · Software Engineering
-Exploring:     Applied Machine Learning & Intelligent Feature Integration
-Open To:       Software Engineering & Mobile Developer Internships
-```
-
-- 📱 **Mobile & Software:** Focused on building performant, modular applications using **React Native**, **JavaScript**, **Java**, and **Python**.
-- 🏛️ **Civic Impact:** Architected the **Karachi Complaint Portal**, solving urban community challenges through accessible digital tools.
-- 🎯 **Career Objective:** Actively seeking **Software Engineering and Mobile App Development Internships** to contribute to high-impact engineering teams.
+- 📱 **Mobile & Full-Stack:** Building performant, user-centric applications using **React Native**, **JavaScript**, **Java**, and **Python**.
+- 🏛️ **Civic Impact:** Architected the **Karachi Complaint Portal** — a real-world platform eliminating bureaucratic friction through digital grievance tracking.
+- 🧠 **AI / ML Explorer:** Actively exploring applied machine learning workflows to integrate intelligent, data-driven capabilities into everyday apps.
+- 🎯 **Career Objective:** Actively pursuing **Software Engineering and Mobile App Development Internships** to contribute to production codebases and high-impact engineering teams.
 
 ---
 
