@@ -11,7 +11,7 @@
   <br><br>
 
   <!-- Direct Connect Link -->
-  <a href="https://www.linkedin.com/in/syedhaziqzia" target="_blank">
+  <a href="https://www.linkedin.com/in/syed-haziq-zia-naqvi-34166634b/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
