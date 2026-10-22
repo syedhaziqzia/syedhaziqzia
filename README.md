@@ -1,15 +1,96 @@
-# 💫 About Me:
-Hi, I'm Syed Haziq Zia Naqvi, a third-year Computer Science student at the University of Karachi.<br><br>I specialize in software engineering and mobile application development, and I am an AI/ML practitioner. I focus on building scalable solutions like the Karachi Complaint Portal and robust, professional-grade applications.<br><br>By exploring my repositories, you can find:<br><br>Practical applications built with Python, Java, JavaScript, and React Native<br><br>Real-world civic-tech solutions focused on community impact<br><br>Efficient solutions to complex technical problems<br><br>Clean, maintainable codebases demonstrating modern software engineering practices
+<div align="center">
 
+  # 💫 Syed Haziq Zia Naqvi
+  
+  <p align="center">
+    <strong>Computer Science Undergrad @ University of Karachi</strong><br>
+    <em>AI/ML Practitioner • Mobile & Full-Stack Software Engineer • Civic-Tech Builder</em>
+  </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@Syed Haziq Zia Naqvi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SyedHaziq98978) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:@syedhaziqzianaqvi@gmail.com) 
+  <p align="center">
+    <a href="https://linkedin.com/in/syedhaziqzia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://x.com/SyedHaziq98978" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+    <a href="mailto:syedhaziqzianaqvi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=syedhaziqzia&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=syedhaziqzia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=syedhaziqzia&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Software+Engineer+%26+Mobile+App+Dev;AI%2FML+Practitioner;Building+Civic-Tech+%26+Scalable+Solutions;Karachi+Complaint+Portal+Developer" alt="Typing SVG" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **Education:** 3rd-year Computer Science student at **University of Karachi**.
+- 🛠️ **Engineering Focus:** Building resilient mobile applications, scalable backends, and practical AI/ML solutions.
+- 🏛️ **Civic Impact:** Creator of civic-tech initiatives, including the **Karachi Complaint Portal**, addressing real-world community challenges.
+- 💡 **Philosophy:** Clean architecture, performance optimization, and maintainable, production-ready codebases.
+- 🤝 **Collaborations:** Open to collaborative software engineering ventures, hackathons, and AI-driven initiatives.
+
+---
+
+### 💻 Tech Stack & Toolkit
+
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frameworks & Mobile</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases & Cloud</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Design & Tooling</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="175em" src="https://github-readme-stats.shion.dev/api?username=syedhaziqzia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Haziq's GitHub Stats" />
+      </td>
+      <td>
+        <img height="175em" src="https://streak-stats.demolab.com/?user=syedhaziqzia&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=syedhaziqzia&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/syedhaziqzia">Syed Haziq Zia Naqvi</a> • Let's connect and build something impactful!</sub>
+</div>
