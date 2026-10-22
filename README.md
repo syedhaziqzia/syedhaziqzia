@@ -1,17 +1,18 @@
 <div align="center">
 
-  # 💫 Syed Haziq Zia Naqvi
+  <!-- Minimal Animated Gradient Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,32,45&height=150&section=header&text=Syed%20Haziq%20Zia%20Naqvi&fontSize=34&fontAlignY=42&desc=Software%20Engineer%20•%20AI%2FML%20Practitioner%20•%20Mobile%20Developer&descAlignY=68&descAlign=50" width="100%" alt="Header Banner" />
 
-  <!-- Sleek Typing SVG with Cyber Cyan Glow -->
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=580&lines=CS+Undergrad+%40+University+of+Karachi;Software+Engineer+%26+Mobile+Developer;Architecting+Civic-Tech+for+Karachi;Building+Scalable+Full-Stack+%26+AI+Systems" alt="Animated Typing Subtitle" />
-  </a>
+  <br>
+
+  <!-- Clean Animated Typing Subtitle -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1200&color=61DAFB&center=true&vCenter=true&width=580&lines=3rd-Year+CS+Undergrad+%40+University+of+Karachi;Building+Scalable+Mobile+%26+Full-Stack+Apps;Creator+of+Karachi+Complaint+Portal;Applying+Modern+AI%2FML+To+Real-World+Problems" alt="Animated Typing Subtitle" />
 
   <br><br>
 
-  <!-- Clean LinkedIn Badge with Direct Verified URL -->
-  <a href="https://www.linkedin.com/in/syed-haziq-zia-naqvi-34166634b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <!-- Direct Connect Link -->
+  <a href="https://www.linkedin.com/in/syedhaziqzia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
 </div>
@@ -22,75 +23,50 @@
 
 ### 👨‍💻 About Me
 
-Third-year Computer Science student at the **University of Karachi**, engineering practical mobile applications, scalable cloud solutions, and real-world civic technology.
+I am a 3rd-year Computer Science student at the **University of Karachi**, focusing on building scalable systems, mobile applications, and impactful AI/ML tools.
 
-```yaml
-academic:    BS Computer Science @ University of Karachi (Year 3)
-specialties: Mobile Engineering (React Native) · Full-Stack · Applied AI/ML
-flagship:    Karachi Complaint Portal (Civic-Tech Redressal Platform)
-focus:       Production-Ready Architecture · High Performance · Clean Code
-```
+- 🎓 **Academics:** Pursuing BS in Computer Science with a focus on Data Structures, Database Architecture, and System Design.
+- 📱 **Mobile & Software:** Specialized in cross-platform mobile engineering with React Native and modern JavaScript/TypeScript ecosystems.
+- 🧠 **AI / ML Focus:** Exploring applied machine learning workflows and deploying smart, data-driven features into production apps.
+- 🏛️ **Civic Tech:** Passionate about community impact and building digital public goods for urban problem-solving.
 
 ---
 
-### 🚀 Featured Projects
+### 🏛️ Spotlight Project: Karachi Complaint Portal
 
-<table>
-  <tr>
-    <td width="65%">
-      <strong><a href="https://github.com/syedhaziqzia/Karachi-Complaint-Portal">Karachi Complaint Portal</a></strong>
-      <br>
-      A full-fledged civic reporting app empowering citizens to log infrastructure issues (roads, sewage, encroachments) with real-time GPS tagging and photo verification. Features live status tracking, gamified citizen badges, and multilingual support (English, Urdu, Roman Urdu).
-    </td>
-    <td width="35%" align="center">
-      <code>React Native</code><br>
-      <code>Firebase</code><br>
-      <code>Cloud Firestore</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong><a href="https://github.com/syedhaziqzia/FuelQ">FuelQ</a></strong>
-      <br>
-      Stochastic queuing analytics engine and Discrete Event Simulator (DES) calibrated for Shell Petrol Pump operations in Karachi to minimize bottleneck delays.
-    </td>
-    <td align="center">
-      <code>C#</code> · <code>.NET 10</code><br>
-      <code>WPF</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong><a href="https://github.com/syedhaziqzia/MINDEASE-DBMS-Project">MindEase</a></strong>
-      <br>
-      Role-based mental health and mood journaling platform designed with strict relational schema design, complex JOIN queries, and automated cascading integrity.
-    </td>
-    <td align="center">
-      <code>Python</code> · <code>Flask</code><br>
-      <code>MySQL</code>
-    </td>
-  </tr>
-</table>
+> *A civic-tech initiative aimed at empowering citizens and digitizing municipal grievance management across Karachi.*
 
-<sub>Also explore: <a href="https://github.com/syedhaziqzia/ATM-Simulator-Java">ATM Simulator</a> (Java Swing) · <a href="https://github.com/syedhaziqzia/gdp-analyzer">GDP Analyzer</a> (Python & World Bank API)</sub>
+- 🎯 **Mission:** Providing an accessible, transparent platform for citizens to report, route, and track local civic issues.
+- ⚡ **Key Highlights:**
+  - Automated ticket assignment & status lifecycles
+  - Geo-tagged reporting for swift issue identification
+  - Cross-platform, mobile-first design built for real-world resilience
+- 🛠️ **Tech Stack:** React Native · Firebase · Cloud Infrastructure
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,cs,react,dotnet,flask,mysql,firebase,git,figma,html,css&theme=dark&perline=13" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,mysql,firebase,git,figma,html,css&theme=dark" alt="Tech Stack Icons" />
 </div>
+
+<br>
+
+- **Languages:** `Python` · `JavaScript (ES6+)` · `Java` · `HTML5` · `CSS3`
+- **Mobile & Web:** `React Native` · `React.js` · `Node.js`
+- **Databases & Cloud:** `MySQL` · `Firebase`
+- **Tools:** `Git` · `Figma` · `Canva`
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Activity & Statistics
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr align="center">
       <td>
-        <img height="155" src="https://github-readme-stats.shion.dev/api?username=syedhaziqzia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Haziq's GitHub Stats" />
+        <img height="155" src="https://github-readme-stats.shion.dev/api?username=syedhaziqzia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td>
         <img height="155" src="https://streak-stats.demolab.com/?user=syedhaziqzia&theme=tokyonight&hide_border=true" alt="Streak Stats" />
