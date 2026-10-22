@@ -30,3 +30,54 @@ academic:    BS Computer Science @ University of Karachi (Year 3)
 specialties: Mobile Engineering (React Native) · Full-Stack · Applied AI/ML
 flagship:    Karachi Complaint Portal (Civic-Tech Redressal Platform)
 focus:       Production-Ready Architecture · High Performance · Clean Code
+```
+
+---
+
+### 🏛️ Spotlight Project: Karachi Complaint Portal
+
+> *A civic-tech initiative aimed at empowering citizens and digitizing municipal grievance management across Karachi.*
+
+- 🎯 **Mission:** Providing an accessible, transparent platform for citizens to report, route, and track local civic issues.
+- ⚡ **Key Highlights:**
+  - Automated ticket assignment & status lifecycles
+  - Geo-tagged reporting for swift issue identification
+  - Cross-platform, mobile-first design built for real-world resilience
+- 🛠️ **Tech Stack:** React Native · Firebase · Cloud Infrastructure
+
+---
+
+### 🚀 Other Featured Repositories
+
+**[FuelQ](https://github.com/syedhaziqzia/FuelQ)** · `C#` `.NET 10` `WPF`
+<br>Stochastic queuing analytics tool and discrete-event simulator calibrated for Shell Petrol Pump operations in Karachi.
+
+**[MindEase](https://github.com/syedhaziqzia/MINDEASE-DBMS-Project)** · `Python` `Flask` `MySQL`
+<br>Role-based mental health and mood journaling platform designed around relational schema integrity and advanced SQL queries.
+
+<sub>Also explore: <a href="https://github.com/syedhaziqzia/ATM-Simulator-Java">ATM Simulator</a> (Java Swing) · <a href="https://github.com/syedhaziqzia/gdp-analyzer">GDP Analyzer</a> (Python & World Bank API)</sub>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,cs,react,dotnet,flask,mysql,firebase,git,figma,html,css&theme=dark&perline=13" alt="Tech Stack Icons" />
+</div>
+
+<br>
+
+- **Languages:** `Python` · `JavaScript (ES6+)` · `Java` · `HTML5` · `CSS3`
+- **Mobile & Web:** `React Native` · `React.js` · `Node.js`
+- **Databases & Cloud:** `MySQL` · `Firebase`
+- **Tools:** `Git` · `Figma` · `Canva`
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img height="155" src="https://streak-stats.demolab.com/?user=syedhaziqzia&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  &nbsp;&nbsp;
+  <img height="155" src="https://github-readme-stats.shion.dev/api/top-langs/?username=syedhaziqzia&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
