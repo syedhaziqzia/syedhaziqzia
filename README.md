@@ -1,82 +1,60 @@
 <div align="center">
 
-  <!-- Minimal Animated Gradient Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,32,45&height=150&section=header&text=Syed%20Haziq%20Zia%20Naqvi&fontSize=34&fontAlignY=42&desc=Software%20Engineer%20•%20AI%2FML%20Practitioner%20•%20Mobile%20Developer&descAlignY=68&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=120&section=header&text=Syed%20Haziq%20Zia%20Naqvi&fontSize=30&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Syed Haziq Zia Naqvi" />
 
-  <br>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=520&lines=Software+Engineer;Mobile+App+Developer;AI%2FML+Practitioner;Building+civic-tech+for+Karachi" alt="Roles" />
 
-  <!-- Clean Animated Typing Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1200&color=61DAFB&center=true&vCenter=true&width=580&lines=3rd-Year+CS+Undergrad+%40+University+of+Karachi;Building+Scalable+Mobile+%26+Full-Stack+Apps;Creator+of+Karachi+Complaint+Portal;Applying+Modern+AI%2FML+To+Real-World+Problems" alt="Animated Typing Subtitle" />
-
-  <br><br>
-
-  <!-- Direct Connect Link -->
-  <a href="https://www.linkedin.com/in/syedhaziqzia" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/syed-haziq-zia-naqvi-34166634b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" />
+</a>
 
 </div>
 
 <br>
 
----
+### About
 
-### 👨‍💻 About Me
+Third-year Computer Science student at the **University of Karachi**, working across software engineering, mobile development, and applied AI/ML.
 
-I am a 3rd-year Computer Science student at the **University of Karachi**, focusing on building scalable systems, mobile applications, and impactful AI/ML tools.
+I like building things that solve real problems, with code that stays clean and easy to maintain.
 
-- 🎓 **Academics:** Pursuing BS in Computer Science with a focus on Data Structures, Database Architecture, and System Design.
-- 📱 **Mobile & Software:** Specialized in cross-platform mobile engineering with React Native and modern JavaScript/TypeScript ecosystems.
-- 🧠 **AI / ML Focus:** Exploring applied machine learning workflows and deploying smart, data-driven features into production apps.
-- 🏛️ **Civic Tech:** Passionate about community impact and building digital public goods for urban problem-solving.
-
----
-
-### 🏛️ Spotlight Project: Karachi Complaint Portal
-
-> *A civic-tech initiative aimed at empowering citizens and digitizing municipal grievance management across Karachi.*
-
-- 🎯 **Mission:** Providing an accessible, transparent platform for citizens to report, route, and track local civic issues.
-- ⚡ **Key Highlights:**
-  - Automated ticket assignment & status lifecycles
-  - Geo-tagged reporting for swift issue identification
-  - Cross-platform, mobile-first design built for real-world resilience
-- 🛠️ **Tech Stack:** React Native · Firebase · Cloud Infrastructure
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,mysql,firebase,git,figma,html,css&theme=dark" alt="Tech Stack Icons" />
-</div>
+```yaml
+currently:   CS @ University of Karachi (Year 3)
+building:    Karachi Complaint Portal
+focus:       Mobile apps · Full-stack · Applied AI/ML
+open_to:     Internships · Collaborations · Hackathons
+```
 
 <br>
 
-- **Languages:** `Python` · `JavaScript (ES6+)` · `Java` · `HTML5` · `CSS3`
-- **Mobile & Web:** `React Native` · `React.js` · `Node.js`
-- **Databases & Cloud:** `MySQL` · `Firebase`
-- **Tools:** `Git` · `Figma` · `Canva`
+### Featured Projects
 
----
+**[Karachi Complaint Portal](https://github.com/syedhaziqzia/Karachi-Complaint-Portal)** · `React Native` `Firebase`
+<br>A civic app where citizens report road damage, sewage, waste, and encroachments, with GPS location and photo evidence on a live map. Includes multi-provider auth, push notifications, XP and badges, and support for English, Urdu, and Roman Urdu.
 
-### 📊 Activity & Statistics
+**[FuelQ](https://github.com/syedhaziqzia/FuelQ)** · `C#` `.NET` `WPF`
+<br>A stochastic queuing analytics tool and discrete-event simulator, modelled on a real Shell petrol pump in Karachi.
+
+**[MindEase](https://github.com/syedhaziqzia/MINDEASE-DBMS-Project)** · `Python` `Flask` `MySQL`
+<br>A role-based app for tracking mood and mental health, built around relational schema design, JOINs, and cascading foreign keys.
+
+<sub>More: [ATM Simulator](https://github.com/syedhaziqzia/ATM-Simulator-Java) (Java Swing) · [GDP Analyzer](https://github.com/syedhaziqzia/gdp-analyzer) (Python, World Bank API)</sub>
+
+<br>
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=python,js,java,cs,react,dotnet,flask,mysql,firebase,html,css,git,figma&theme=dark&perline=13" alt="Tech stack" />
+
+<br><br>
+
+### Activity
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr align="center">
-      <td>
-        <img height="155" src="https://github-readme-stats.shion.dev/api?username=syedhaziqzia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="155" src="https://streak-stats.demolab.com/?user=syedhaziqzia&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-      </td>
-    </tr>
-    <tr align="center">
-      <td colspan="2">
-        <br>
-        <img height="140" src="https://github-readme-stats.shion.dev/api/top-langs/?username=syedhaziqzia&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+
+<img height="160" src="https://github-readme-stats.shion.dev/api?username=syedhaziqzia&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=syedhaziqzia&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=syedhaziqzia&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=21262d" alt="Streak" />
+
 </div>
