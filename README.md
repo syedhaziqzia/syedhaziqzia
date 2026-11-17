@@ -72,8 +72,8 @@ Third-year Computer Science undergraduate at the **University of Karachi** (Clas
 
 ### 📊 GitHub Activity
 
-<p align="center">
+<div align="center">
   <img height="155" src="https://streak-stats.demolab.com/?user=syedhaziqzia&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   &nbsp;&nbsp;
   <img height="155" src="https://github-readme-stats.shion.dev/api/top-langs/?username=syedhaziqzia&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
+</div>
