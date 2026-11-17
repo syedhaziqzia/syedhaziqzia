@@ -2,13 +2,11 @@
 
   <!-- Solid Constant Blue Rounded Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0A66C2&height=150&section=header&text=Syed%20Haziq%20Zia%20Naqvi&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20•%20AI%2FML%20Practitioner%20•%20Mobile%20Developer&descColor=ffffff&descAlignY=68&descAlign=50" width="100%" alt="Header Banner" />
-
-  <br><br>
+  <br>
 
   <!-- Animated Typing Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1200&color=38BDF8&center=true&vCenter=true&width=580&lines=3rd-Year+CS+Undergrad+%40+University+of+Karachi;Building+Scalable+Mobile+%26+Full-Stack+Apps;Creator+of+Karachi+Complaint+Portal;Actively+Seeking+SWE+%26+Mobile+Internships" alt="Animated Typing Subtitle" />
-
-  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=3rd-Year+CS+Undergrad+%40+University+of+Karachi;Building+Scalable+Mobile+and+Full-Stack+Apps;Creator+of+Karachi+Complaint+Portal;Actively+Seeking+SWE+and+Mobile+Internships" alt="Animated Typing Subtitle" />
+  <br>
 
   <!-- Rounded LinkedIn Connect Pill -->
   <a href="https://www.linkedin.com/in/syed-haziq-zia-naqvi-34166634b/" target="_blank">
@@ -21,7 +19,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨💻 About Me
 
 Third-year Computer Science undergraduate at the **University of Karachi** (Class of 2028), specializing in cross-platform mobile engineering and robust full-stack software development.
 
